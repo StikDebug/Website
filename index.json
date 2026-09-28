@@ -46,11 +46,11 @@
       },
       "versions": [
         {
-          "version": "3.1.12",
-          "date": "2026-09-27",
-          "localizedDescription": "Should fix issues with DDI for iOS versions below 26.4.\r\nAlso, lots of fixes for JIT scripts and location simulation keepalives.\n\nFull Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.11...3.1.12",
-          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.12/StikDebug-3.1.12.ipa",
-          "size": 13544301,
+          "version": "3.1.13",
+          "date": "2026-09-28",
+          "localizedDescription": "Fix MeloCaf\u00e9 auto assign\n\nFull Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.12...3.1.13",
+          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.13/StikDebug-3.1.13.ipa",
+          "size": 13544310,
           "minOSVersion": "17.4"
         }
       ]
