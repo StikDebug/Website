@@ -46,11 +46,11 @@
       },
       "versions": [
         {
-          "version": "3.1.13",
-          "date": "2026-09-28",
-          "localizedDescription": "Fix MeloCaf\u00e9 auto assign\n\nFull Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.12...3.1.13",
-          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.13/StikDebug-3.1.13.ipa",
-          "size": 13544310,
+          "version": "3.1.14",
+          "date": "2026-10-12",
+          "localizedDescription": "Add Husk support\n\nFull Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.13...3.1.14",
+          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.14/StikDebug-3.1.14.ipa",
+          "size": 13544340,
           "minOSVersion": "17.4"
         }
       ]
