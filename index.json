@@ -46,11 +46,11 @@
       },
       "versions": [
         {
-          "version": "3.1.14",
-          "date": "2026-10-12",
-          "localizedDescription": "Add Husk support\n\nFull Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.13...3.1.14",
-          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.14/StikDebug-3.1.14.ipa",
-          "size": 13544340,
+          "version": "3.1.15",
+          "date": "2026-10-15",
+          "localizedDescription": "Full Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.14...3.1.15",
+          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.15/StikDebug-3.1.15.ipa",
+          "size": 13543234,
           "minOSVersion": "17.4"
         }
       ]
