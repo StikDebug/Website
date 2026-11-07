@@ -46,11 +46,11 @@
       },
       "versions": [
         {
-          "version": "3.2.0",
-          "date": "2026-10-30",
-          "localizedDescription": "What's Changed\n Prevent stale legacy pairing files overriding fresh imports by @mvanhorn in https://github.com/StikDebug/StikDebug/pull/479\n Revert \"Prevent stale legacy pairing files overriding fresh imports\" by @CelloSerenity in https://github.com/StikDebug/StikDebug/pull/486\n fix: release the route when playback finishes so a new spot can be set by @OpenUmar in https://github.com/StikDebug/StikDebug/pull/490\n\nNew Contributors\n @mvanhorn made their first contribution in https://github.com/StikDebug/StikDebug/pull/479\n @OpenUmar made their first contribution in https://github.com/StikDebug/StikDebug/pull/490\n\nFull Changelog**: https://github.com/StikDebug/StikDebug/compare/3.1.15...3.2.0",
-          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.2.0/StikDebug-3.2.0.ipa",
-          "size": 16818331,
+          "version": "3.2.1",
+          "date": "2026-11-07",
+          "localizedDescription": "- More error cleanup\r\n- Chinese (Simplified) localization\r\n- Kill processes via name via url scheme\r\n- FYI- StikDebug now requires Xcode 27+\n\nWhat's Changed\n Added Chinese localization by @jlj1102 in https://github.com/StikDebug/StikDebug/pull/494\n\nNew Contributors\n @jlj1102 made their first contribution in https://github.com/StikDebug/StikDebug/pull/494\n\nFull Changelog: https://github.com/StikDebug/StikDebug/compare/3.2.0...3.2.1",
+          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.2.1/StikDebug-3.2.1.ipa",
+          "size": 16924629,
           "minOSVersion": "17.4"
         }
       ]
