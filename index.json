@@ -1,5 +1,5 @@
 {
-  "name": "StikDebug & More!",
+  "name": "StikDebug Source",
   "identifier": "com.stik.stikdebug",
   "website": "https://stikdebug.xyz",
   "subtitle": "Official AltSource for StikDebug and other apps.",
@@ -53,8 +53,6 @@
           "size": 16924687,
           "minOSVersion": "17.4"
         }
-      ]
-    }
       ]
     }
   ],
